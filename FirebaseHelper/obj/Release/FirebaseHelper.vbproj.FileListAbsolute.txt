@@ -1,0 +1,8 @@
+C:\Users\Luke\Dropbox\Projects\FirebaseHelper\FirebaseHelper\bin\Release\FirebaseHelper.dll
+C:\Users\Luke\Dropbox\Projects\FirebaseHelper\FirebaseHelper\bin\Release\FirebaseHelper.pdb
+C:\Users\Luke\Dropbox\Projects\FirebaseHelper\FirebaseHelper\bin\Release\FirebaseHelper.xml
+C:\Users\Luke\Dropbox\Projects\FirebaseHelper\FirebaseHelper\obj\Release\Helpers.Resources.resources
+C:\Users\Luke\Dropbox\Projects\FirebaseHelper\FirebaseHelper\obj\Release\FirebaseHelper.vbproj.GenerateResource.Cache
+C:\Users\Luke\Dropbox\Projects\FirebaseHelper\FirebaseHelper\obj\Release\FirebaseHelper.dll
+C:\Users\Luke\Dropbox\Projects\FirebaseHelper\FirebaseHelper\obj\Release\FirebaseHelper.xml
+C:\Users\Luke\Dropbox\Projects\FirebaseHelper\FirebaseHelper\obj\Release\FirebaseHelper.pdb

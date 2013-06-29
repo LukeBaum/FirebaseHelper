@@ -1,0 +1,16 @@
+C:\Users\Luke\AppData\Local\Temporary Projects\FirebaseHelper\bin\Debug\FirebaseHelper.dll
+C:\Users\Luke\AppData\Local\Temporary Projects\FirebaseHelper\bin\Debug\FirebaseHelper.pdb
+C:\Users\Luke\AppData\Local\Temporary Projects\FirebaseHelper\bin\Debug\FirebaseHelper.xml
+C:\Users\Luke\AppData\Local\Temporary Projects\FirebaseHelper\obj\Debug\FirebaseHelper.Resources.resources
+C:\Users\Luke\AppData\Local\Temporary Projects\FirebaseHelper\obj\Debug\FirebaseHelper.vbproj.GenerateResource.Cache
+C:\Users\Luke\AppData\Local\Temporary Projects\FirebaseHelper\obj\Debug\FirebaseHelper.dll
+C:\Users\Luke\AppData\Local\Temporary Projects\FirebaseHelper\obj\Debug\FirebaseHelper.xml
+C:\Users\Luke\AppData\Local\Temporary Projects\FirebaseHelper\obj\Debug\FirebaseHelper.pdb
+C:\Users\Luke\Dropbox\Projects\FirebaseHelper\FirebaseHelper\bin\Debug\FirebaseHelper.dll
+C:\Users\Luke\Dropbox\Projects\FirebaseHelper\FirebaseHelper\bin\Debug\FirebaseHelper.pdb
+C:\Users\Luke\Dropbox\Projects\FirebaseHelper\FirebaseHelper\bin\Debug\FirebaseHelper.xml
+C:\Users\Luke\Dropbox\Projects\FirebaseHelper\FirebaseHelper\obj\Debug\Helpers.Resources.resources
+C:\Users\Luke\Dropbox\Projects\FirebaseHelper\FirebaseHelper\obj\Debug\FirebaseHelper.vbproj.GenerateResource.Cache
+C:\Users\Luke\Dropbox\Projects\FirebaseHelper\FirebaseHelper\obj\Debug\FirebaseHelper.dll
+C:\Users\Luke\Dropbox\Projects\FirebaseHelper\FirebaseHelper\obj\Debug\FirebaseHelper.xml
+C:\Users\Luke\Dropbox\Projects\FirebaseHelper\FirebaseHelper\obj\Debug\FirebaseHelper.pdb
