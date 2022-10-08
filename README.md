@@ -1,3 +1,5 @@
+NOTE: This project is ancient and will be archived as the Firebase platform has changed entirely.
+
 FirebaseHelper
 ==============
 
